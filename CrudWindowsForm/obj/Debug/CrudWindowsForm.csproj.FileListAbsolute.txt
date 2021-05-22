@@ -1,0 +1,16 @@
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\CrudWindowsForm.exe.config
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\CrudWindowsForm.exe
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\CrudWindowsForm.pdb
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\EntityFramework.dll
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\EntityFramework.xml
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.csprojAssemblyReference.cache
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.Form1.resources
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.Properties.Resources.resources
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.csproj.GenerateResource.cache
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.csproj.CoreCompileInputs.cache
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.csproj.CopyComplete
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.exe
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.pdb
+C:\BACKUP GENERAL\SANTANDER CONSUMER 2021\DESARROLLOS\Practica C#\Crud entity\CrudWindowsForm\CrudWindowsForm\obj\Debug\CrudWindowsForm.Presentacion.FrmPersonaCrud.resources
